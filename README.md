@@ -11,5 +11,5 @@ ctx.globalCompositeOperation = 'destination-over';
 - JavaScript
 - HTML
 
-  # GitHub Project Page 
+  #### GitHub Project Page 
   https://davidkrem.github.io/HTML5-Canvas/
