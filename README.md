@@ -1,6 +1,6 @@
 # HTML5 Canvas
 
-### Paint on canvas while mouse is down
+### Paint on canvas while MOUSE IS DOWN.
 
 ```javascript
 ctx.globalCompositeOperation = 'destination-over';
